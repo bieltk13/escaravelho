@@ -1,0 +1,63 @@
+ESCARAVELHO BOX — DEMONSTRAÇÃO DE WEBSITE
+==========================================
+
+COMEÇAR
+1. Extraia o ZIP mantendo todas as pastas.
+2. Abra o arquivo index.html no Chrome ou Edge.
+3. Para testar em um servidor local (recomendado):
+   - Abra o terminal dentro da pasta e execute: python -m http.server 8080
+   - Acesse http://localhost:8080
+4. Todos os botões internos, o menu e a solicitação via WhatsApp funcionam.
+   OBS.: O formulário NÃO reserva vaga. Abre uma mensagem preparada no WhatsApp
+   (45) 99965-8925 para a recepção confirmar horários.
+
+PRINCIPAIS MELHORIAS ENTREGUES
+• Hero reformulado com paleta contida (carvão, branco e cobre).
+• Seções de Cross Training, primeira aula, estrutura, dúvidas e localização.
+• Formulário responsivo com validações e mensagem de WhatsApp contextualizada.
+• Barra e menu para celular, links reais, rodapé completo, mapa incorporado.
+• SEO técnico preparado: title/description, Open Graph, heading único, alt,
+  JSON-LD SportsActivityLocation, endereço local, imagens otimizadas, acessibilidade,
+  robots e sitemap de produção gerado quando o domínio oficial estiver definido.
+• Formulário sem servidor e sem armazenamento próprio de dados pessoais.
+
+ATENÇÃO: PRÉVIA NÃO OFICIAL
+• A demonstração está PROTEGIDA POR NOINDEX e bloqueada em robots.txt de propósito.
+  Não deve competir com uma página oficial nem aparecer no Google sem aprovação.
+• Após autorização da academia, foto real, horários e dados confirmados, coloque
+  no domínio final e execute: python publicar.py https://dominio-oficial.com.br
+  O script solicita a confirmação PUBLICAR; gera canonical, URL no JSON-LD,
+  robots liberado e sitemap.xml para o domínio informado.
+• Para publicação, fornecer logo original em alta resolução, fotos REAIS e
+  AUTORIZADAS da equipe e do espaço, horários e modalidades aprovadas pela empresa.
+• O recorte de marca foi extraído do print fornecido pelo usuário e é provisório.
+• O site tenta carregar fotos do perfil do parceiro no Wellhub. Se indisponíveis,
+  usa imagens de REFERÊNCIA ilustrativas geradas para a prévia — NÃO são fotos
+  comprovadamente reais do Escaravelho. Os direitos de uso e as imagens definitivas
+  precisam ser aprovados pelos proprietários antes de publicar.
+• A galeria é demonstrativa e não deve ser vendida como registro real do local.
+• DADOS: WhatsApp e endereço foram cruzados no Wellhub e no perfil Instagram.
+  Horários variam entre fontes públicas, então não foram fixados no site.
+• O texto de privacidade está marcado como provisório e precisa de validação
+  jurídica/operacional antes do uso oficial.
+• O Google Maps incorporado e as fotos públicas precisam de internet; em modo
+  offline as fotos demonstrativas locais são usadas como alternativa.
+
+DADOS E REFERÊNCIAS
+Endereço de referência: Rua Mato Grosso, 209 — São Cristóvão, Cascavel–PR, 85813-020
+WhatsApp público: (45) 99965-8925
+Instagram: https://www.instagram.com/escaravelhobox/
+Perfil: https://wellhub.com/pt-br/search/partners/cross-escaravelho/
+Mudança de local: https://www.findglocal.com/BR/Cascavel/330290161099256/Escaravelho-Box
+
+ARQUIVOS
+index.html — site
+styles.css — visual responsivo
+app.js — menu, formulário, fallback das fotos
+privacidade.html — explicação provisória sobre dados
+robots.txt — bloqueio intencional de indexação da prévia
+publicar.py — ativar canonical, schema URL, robots e sitemap no domínio autorizado
+assets/ — imagens demonstrativas, marca provisória e ícone
+
+Este material é uma proposta comercial de demonstração, não uma publicação
+oficial, nem uma promessa de número de matrículas ou posição no Google.

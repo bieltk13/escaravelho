@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# PRÉVIA NÃO OFICIAL. Para ativar indexação após aprovação, execute publicar.py com a URL oficial.
